@@ -49,3 +49,18 @@ Now, go to your * /c/Users/USER/.ssh/id_rsa * (Or whatever path the keys are sav
 > command
 
 `ssh username@IP`
+
+
+### SSH File Transfer Protocol
+
+#### Windows (WinSCP)
+
+> New Session
+
+> File Protocol: SFTP
+
+> Credentials
+
+> Go to Advanced > Authentication > Load Provate Key
+
+> Login
