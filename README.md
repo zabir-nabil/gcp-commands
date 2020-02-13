@@ -64,3 +64,6 @@ Now, go to your * /c/Users/USER/.ssh/id_rsa * (Or whatever path the keys are sav
 > Go to Advanced > Authentication > Load Provate Key
 
 > Login
+
+
+#### Mac (Cyberduck)
