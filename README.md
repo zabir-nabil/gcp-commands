@@ -7,7 +7,7 @@ Create an instance with the required configurations
 
 ### Generate SSH keys
 
-In client computer, go to git bash (Git bash because it's available easily on both windows, linux, mac so steps are same/similar)
+In client computer, go to git bash (Git bash because it's available easily on windows, linux, & mac so the steps are same/similar)
 
 > command
 
