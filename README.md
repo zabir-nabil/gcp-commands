@@ -11,7 +11,7 @@ In client computer, go to git bash (Git bash because it's available easily on wi
 
 > command
 
-`ssh-keygen -t rsa -C "zabiralnabil@gmail.com"`
+`ssh-keygen -t rsa -C "zabiral**@gmail.com"`
 
 > out
 
